@@ -16,6 +16,10 @@ Roberto Moretti (IPGP), moretti@ipgp.fr
 
 Charles Le Losq (IPGP), lelosq@ipgp.fr
 
+# Dependencies
+
+A working fortran compiler. We suggest using gfortran, tested on Mac and Linux. It works well with this software!
+
 # How to use
 
 Download the repository, and use the provided example input file. It first requires compilation of the FORTRAN source, then running the compilated software.
